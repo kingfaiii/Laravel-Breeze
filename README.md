@@ -23,9 +23,8 @@ Laravel-Breeze is accessible, powerful, and provides tools required for large, r
 
 -   Simple CRUD with proper using of Laravel using Resources, Requests, Controller, Model.
 
-## How To Install
+## Requirements:
 
-<h1>Requirements:</h1>
 <ul>
 <li>Composer</li>
 <li>NPM / NodeJS</li>
@@ -34,7 +33,7 @@ Laravel-Breeze is accessible, powerful, and provides tools required for large, r
 <li>MySQL Database Client (WAMP, XAMPP, Laragon, Etc.)</li>
 </ul>
 
-This are the steps you need to do to install this project properly and run smoothly:
+## Steps you need to do to install this project properly and run smoothly:
 
 <ol>
 <li>You need to run "Composer Update" for the dependencies</li>
