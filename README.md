@@ -25,21 +25,24 @@ Laravel-Breeze is accessible, powerful, and provides tools required for large, r
 
 ## How To Install
 
-Requirements:
-
--Composer
--NPM / NodeJS
--Text Editor (VS Code, ATOM, Sublime, etc.)
--Database Server (MySQL)
--MySQL Database Client (WAMP, XAMPP, Laragon, Etc.)
+<h1>Requirements:</h1>
+<ul>
+<li>Composer</li>
+<li>NPM / NodeJS</li>
+<li>Text Editor (VS Code, ATOM, Sublime, etc.)</li>
+<li>Database Server (MySQL)</li>
+<li>MySQL Database Client (WAMP, XAMPP, Laragon, Etc.)</li>
+</ul>
 
 This are the steps you need to do to install this project properly and run smoothly:
 
--You need to run "Composer Update" for the dependencies
--Inside your Localhost/phpmyadmin Create a Database with any name you want
--Setup the .env File change the DB_Database = (The_Name_Of_Your_Database)
--You also need to run your MySQL to be able to do artisan command migrate
--Run Artisan command Serve
+<ol>
+<li>You need to run "Composer Update" for the dependencies</li>
+<li>Inside your Localhost/phpmyadmin Create a Database with any name you want</li>
+<li>Setup the .env File change the DB_Database = (The_Name_Of_Your_Database)</li>
+<li>You also need to run your MySQL to be able to do artisan command migrate</li>
+<li>Run Artisan command Serve</li>
+</ol>
 
 ## Learning Laravel
 
